@@ -39,7 +39,7 @@
         <span class="text-4xl font-bold ">&#125;</span>
       </a>
     </h1>
-    <nav>
+    <nav class="hidden md:block">
       <ul class="flex space-x-5 mt-2">
         <li><a href="/projects/" class="hover:font-bold">Projekte</a></li>
         <li><a href="/customers/" class="hover:font-bold">Kunden</a></li>
@@ -51,7 +51,7 @@
   {#if info}
     <div class="div info-graphic">
       <div class="grid grid-cols-6 gap-3">
-        <div class="col-span-6 md:col-span-3 mt-24 text-white">
+        <div class="col-span-6 md:col-span-3 mt-12 md:mt-24 text-white">
           <h2 class="font-bold text-2xl mb-6">Web Development & Web Hosting</h2>
           <p>
             Wir entwickeln und betreiben Webseiten und spezielle Software für
