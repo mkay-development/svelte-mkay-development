@@ -1,8 +1,6 @@
-<script>
-  <svelte:head>
-    <title>Impressum - MkaY Development</title>
-  </svelte:head>
-</script>
+<svelte:head>
+  <title>Impressum - MkaY Development</title>
+</svelte:head>
 
 <div class="grid grid-cols-6 gap-2">
   <div class="col-span-6">
@@ -33,15 +31,14 @@
       der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden
       von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend
       entfernen. <br /><br /><strong>Haftung für Links</strong><br /><br />
-      Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
-      Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden
-      Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
-      Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
-      verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung
-      auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum
-      Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
-      Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte
-      einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
+      Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte
+      wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch
+      keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
+      jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten
+      Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft.
+      Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine
+      permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
+      Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
       Rechtsverletzungen werden wir derartige Links umgehend entfernen.
       <br /><br /><strong>Urheberrecht</strong><br /><br /> Die durch die
       Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen
@@ -63,12 +60,12 @@
       werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
       <br />
       Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der
-      Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein
-      lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
-      möglich. <br /> Der Nutzung von im Rahmen der Impressumspflicht
-      veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht
-      ausdrücklich angeforderter Werbung und Informationsmaterialien wird
-      hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
+      Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser
+      Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. <br />
+      Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
+      Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
+      angeforderter Werbung und Informationsmaterialien wird hiermit
+      ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
       ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
       Werbeinformationen, etwa durch Spam-Mails, vor.<br />
     </p>
