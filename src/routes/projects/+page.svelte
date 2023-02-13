@@ -1,7 +1,7 @@
 <script>
   <svelte:head>
     <title>Projekte - MkaY Development</title>
-  </svelte:head>;
+  </svelte:head>
 </script>
 
 Projekte
