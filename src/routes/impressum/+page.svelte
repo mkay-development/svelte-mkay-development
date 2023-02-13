@@ -1,3 +1,9 @@
+<script>
+  <svelte:head>
+    <title>Impressum - MkaY Development</title>
+  </svelte:head>
+</script>
+
 <div class="grid grid-cols-6 gap-2">
   <div class="col-span-6">
     <h2><strong>Angaben gemäß § 5 TMG</strong></h2>
