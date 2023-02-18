@@ -2,8 +2,7 @@
   <title>Startseite - MkaY Development</title>
   <meta
     name="description"
-    content="Wir entwickeln und betreiben Webseiten und spezielle Software für ihr Unternehmen. Außerdem helfen wir ihnen bei der Kommunikation mit ihren Kunden per Email. Dazu setzen wir auf moderne Technologien wie Laravel, VueJs und Svelte.
-  Melde dich jetzt für ein unverbindliches Angebot."
+    content="Wir entwickeln und betreiben Webseiten und spezielle Software für ihr Unternehmen. Außerdem helfen wir ihnen bei der Kommunikation mit ihren Kunden per Email."
   />
 </svelte:head>
 
