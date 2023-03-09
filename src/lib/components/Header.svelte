@@ -48,6 +48,12 @@
       </ul>
     </nav>
   </div>
+  <section class="note text-red-600 bg-white my-5 text-center py-2 px-2">
+    Diese Firma exestiert noch nicht, diese Webseite ist nur eine Vorbereitung
+    auf zukünftige Projekte. <br />
+    Es gibt noch keine aktuellen Projekt die offiziell umgesetzt sind , nur Test
+    Projekte.
+  </section>
   {#if info}
     <div class="div info-graphic">
       <div class="grid grid-cols-6 gap-3">
