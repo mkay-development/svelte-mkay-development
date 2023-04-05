@@ -51,7 +51,7 @@
       <br />
       Mail:
       <a href="mailto:kontakt@mkay.dev" class="text-blue-600"
-        >kontakt@mkay.dev</a
+        >info@mkay-development.de</a
       >
     </p>
   </div>
