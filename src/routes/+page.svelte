@@ -1,10 +1,32 @@
+<script>
+  import { onMount } from "svelte";
+
+  onMount(() => {
+    (window.adsbygoogle = window.adsbygoogle || []).push({});
+  });
+</script>
+
 <svelte:head>
   <title>Startseite - MkaY Development</title>
   <meta
     name="description"
     content="Wir entwickeln und betreiben Webseiten und spezielle Software für ihr Unternehmen. Außerdem helfen wir Ihnen bei der Kommunikation mit ihren Kunden per Email."
   />
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626334775469515"
+    crossorigin="anonymous"
+  ></script>
 </svelte:head>
+
+<div class="ads-widget-container">
+  <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7626334775469515"
+      data-ad-slot="X0X0X0X0X0X0"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+</div>
 
 <div class="grid grid-cols-6 gap-3">
   <div class="col-span-6 md:col-span-3">
