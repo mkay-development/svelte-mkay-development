@@ -19,15 +19,6 @@
   ></script>
 </svelte:head>
 
-<div class="ads-widget-container">
-  <ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7626334775469515"
-      data-ad-slot="X0X0X0X0X0X0"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-</div>
-
 <div class="grid grid-cols-6 gap-3">
   <div class="col-span-6 md:col-span-3">
     <img
@@ -63,5 +54,17 @@
         >kontakt@mkay.dev</a
       >
     </p>
+  </div>
+  <div class="col-span-6">
+    <div class="ads-widget-container">
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-7626334775469515"
+        data-ad-slot="X0X0X0X0X0X0"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
+    </div>
   </div>
 </div>
