@@ -4,8 +4,12 @@
   import Footer from "$lib/components/Footer.svelte";
 </script>
 
-<svelte:head>
-  <script defer data-domain="mkay-development.de" src="https://tracking.mkay.dev/js/script.js"></script>
+<svelte:head
+  ><script
+    defer
+    data-domain="mkay-development.de"
+    src="https://bhkenqpeta4iu6t.plausible.dev/js/script.js"
+  ></script>
 </svelte:head>
 
 <div class="header-background">
