@@ -2,6 +2,12 @@
   import "../tailwind.css";
   import Header from "$lib/components/Header.svelte";
   import Footer from "$lib/components/Footer.svelte";
+
+  import { setup } from "@shopware-pwa/shopware-6-client";
+  setup({
+    endpoint: "https://shopware.mkay.dev",
+    accessToken: "SWSCCELNZGZUBXPVT2O0OVFMYG",
+  });
 </script>
 
 <svelte:head

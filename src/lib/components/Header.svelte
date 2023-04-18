@@ -7,7 +7,14 @@
   } from "@fortawesome/free-solid-svg-icons";
   import { onMount } from "svelte";
   import { page } from "$app/stores";
+  import {
+    addProductToCart,
+    getCart,
+    getProduct,
+  } from "@shopware-pwa/shopware-6-client";
   let info = false;
+  let total = 0;
+  let items = [];
 
   $: $page,
     (function () {
@@ -18,10 +25,11 @@
       }
     })();
 
-  onMount(function () {
+  onMount(async function () {
     if ($page.route.id == "/") {
       info = true;
     }
+
   });
 </script>
 
@@ -36,7 +44,7 @@
             >UG haftungsbeschränkt</span
           >
         </div>
-        <span class="text-4xl font-bold ">&#125;</span>
+        <span class="text-4xl font-bold">&#125;</span>
       </a>
     </h1>
     <nav class="hidden md:block">
