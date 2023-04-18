@@ -7,14 +7,7 @@
   } from "@fortawesome/free-solid-svg-icons";
   import { onMount } from "svelte";
   import { page } from "$app/stores";
-  import {
-    addProductToCart,
-    getCart,
-    getProduct,
-  } from "@shopware-pwa/shopware-6-client";
   let info = false;
-  let total = 0;
-  let items = [];
 
   $: $page,
     (function () {
