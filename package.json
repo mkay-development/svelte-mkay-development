@@ -31,6 +31,7 @@
 	"dependencies": {
 		"@fortawesome/free-brands-svg-icons": "^6.3",
 		"@fortawesome/free-solid-svg-icons": "^6.3",
+		"@shopware-pwa/shopware-6-client": "^1.6.1",
 		"@sveltejs/adapter-static": "^2.0",
 		"pocketbase": "^0.13.1",
 		"svelte-fa": "^3.0",
