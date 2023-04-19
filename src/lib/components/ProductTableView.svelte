@@ -28,6 +28,6 @@
             {p.name} <br />
             <p class="text-sm">{p.description}</p>
         </div>
-        <div class="price">{p.calculatedPrice.unitPrice.toFixed(2)} €</div>
+        <div class="price">{p.calculatedPrice.unitPrice.toFixed(2)} € - ...</div>
     </div>
 {/each}
