@@ -43,6 +43,7 @@
     <nav class="hidden md:block">
       <ul class="flex space-x-5 mt-2">
         <li><a href="/projects/" class="hover:font-bold">Projekte</a></li>
+        <li><a href="/services/" class="hover:font-bold">Services</a></li>
         <li><a href="/customers/" class="hover:font-bold">Kunden</a></li>
         <li><a href="/kontakt/" class="hover:font-bold">Kontakt</a></li>
         <li><a href="/impressum/" class="hover:font-bold">Impressum</a></li>
