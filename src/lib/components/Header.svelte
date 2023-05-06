@@ -76,7 +76,7 @@
         <div class="col-span-6 mt-12 mb-6">
           <section class="actions text-center text-white">
             <span class="leading-10"
-              >Einfach melde unter <a
+              >Schick uns ne Mail an <a
                 href="mailto:hallo@mkay-development.de"
                 class="text-emerald-400 bg-black rounded-lg px-2 py-2"
                 >hello@mkay-development.de</a
@@ -86,7 +86,7 @@
                 href="tel:+49 174 51 41 698"
                 class="text-emerald-400 bg-black px-2 py-2 rounded-lg mx-2"
                 >0174 51 41 698</a
-              >anrufen .</span
+              >.</span
             >
           </section>
         </div>
