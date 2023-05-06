@@ -22,7 +22,6 @@
     if ($page.route.id == "/") {
       info = true;
     }
-
   });
 </script>
 
@@ -51,34 +50,45 @@
     </nav>
   </div>
   <section class="note text-red-600 bg-white my-5 text-center py-2 px-2">
-    Diese Firma exestiert noch nicht, diese Webseite ist nur eine Vorbereitung
-    auf zukünftige Projekte. <br />
-    Es gibt noch keine aktuellen Projekt die offiziell umgesetzt sind , nur Test
-    Projekte.
+    Diese Firma exestiert noch nicht, befindet sich aber in der Gründung. <br />
+    Startdatum ist er 01.06.2023 unter der Leitung von Jonathan Martz als MkaY Development
+    UG.
   </section>
   {#if info}
     <div class="div info-graphic">
       <div class="grid grid-cols-6 gap-3">
-        <div class="col-span-6 md:col-span-3 mt-12 md:mt-24 text-white">
+        <div class="col-span-6 md:col-span-3 mt-12 md:mt-16 text-white">
           <h2 class="font-bold text-2xl mb-6">Web Development & Web Hosting</h2>
           <p>
-            Wir entwickeln und betreiben Webseiten und spezielle Software für
-            ihr Unternehmen. Außerdem helfen wir ihnen bei der Kommunikation mit
-            ihren Kunden per Email. Dazu setzen wir auf moderne Technologien wie
-            Laravel, VueJs und Svelte. <br /> Melde dich jetzt für ein unverbindliches
-            Angebot.
-          </p>
-          <br />
-          <p>
-            Wir entwickeln und betreiben Webseiten und spezielle Software für
-            ihr Unternehmen. Außerdem helfen wir ihnen bei der Kommunikation mit
-            ihren Kunden per Email. Dazu setzen wir auf moderne Technologien wie
-            Laravel, VueJs und Svelte. <br /> Melde dich jetzt für ein unverbindliches
-            Angebot.
+
+
+            Willkommen bei der MkaY Development UG - Ihrem Partner für Webhosting und Webdevelopment!
+            
+            Wir bieten zuverlässiges und schnelles Webhosting für Websites jeder Größe und Komplexität. Egal, ob Sie eine kleine Unternehmenswebsite oder eine große E-Commerce-Plattform betreiben möchten, wir haben die perfekte Hosting-Lösung für Sie. Unsere Server sind hochperformant und werden rund um die Uhr überwacht, um eine maximale Verfügbarkeit Ihrer Website zu gewährleisten.
+            <br><br>
+
+            Unsere Leidenschaft für Qualität und Kundenzufriedenheit treibt uns an, Ihnen die besten Lösungen für Ihre Webhosting- und Webdevelopment-Bedürfnisse anzubieten. Kontaktieren Sie uns noch heute und lassen Sie uns gemeinsam an Ihrem Erfolg arbeiten!
           </p>
         </div>
         <div class="col-span-6 md:col-span-3">
           <img src="assets/home-font.png" class="z-10" alt="" />
+        </div>
+        <div class="col-span-6 mt-12 mb-6">
+          <section class="actions text-center text-white">
+            <span class="leading-10"
+              >Schick uns ne Mail an <a
+                href="mailto:hallo@mkay-development.de"
+                class="text-emerald-400 bg-black rounded-lg px-2 py-2"
+                >hello@mkay-development.de</a
+              >
+              oder rufe uns an unter
+              <a
+                href="tel:+49 174 51 41 698"
+                class="text-emerald-400 bg-black px-2 py-2 rounded-lg mx-2"
+                >0174 51 41 698</a
+              >.</span
+            >
+          </section>
         </div>
         <div class="col-span-6">
           <hr class="border-2 mt-12 mb-12" />
