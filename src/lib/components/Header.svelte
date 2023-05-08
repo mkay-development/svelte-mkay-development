@@ -51,7 +51,7 @@
   </div>
   <section class="note text-red-600 bg-white my-5 text-center py-2 px-2">
     Diese Firma exestiert noch nicht, befindet sich aber in der Gründung. <br />
-    Startdatum ist er 01.06.2023 unter der Leitung von Jonathan Martz als MkaY Development
+    Startdatum ist der 01.06.2023 unter der Leitung von Jonathan Martz als MkaY Development
     UG.
   </section>
   {#if info}
