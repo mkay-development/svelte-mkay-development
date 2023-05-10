@@ -7,7 +7,7 @@
 <svelte:head
   ><script
     defer
-    data-domain="mkay-development.de"
+    data-domain="jonathan-martz.de"
     src="https://bhkenqpeta4iu6t.plausible.dev/js/script.js"
   ></script>
 </svelte:head>

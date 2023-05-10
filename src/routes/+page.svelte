@@ -1,13 +1,5 @@
-<script>
-  import { onMount } from "svelte";
-
-  onMount(() => {
-    (window.adsbygoogle = window.adsbygoogle || []).push({});
-  });
-</script>
-
 <svelte:head>
-  <title>Startseite - MkaY Development</title>
+  <title>Startseite - Jonathan Martz Softwareentwicklung</title>
   <meta
     name="description"
     content="Wir entwickeln und betreiben Webseiten und spezielle Software für ihr Unternehmen. Außerdem helfen wir Ihnen bei der Kommunikation mit ihren Kunden per Email."
@@ -45,8 +37,8 @@
       Tel.: <a href="tel:+49 174 5141698" class="text-blue-600">0174 5141698</a>
       <br />
       Mail:
-      <a href="mailto:kontakt@mkay.dev" class="text-blue-600"
-        >info@mkay-development.de</a
+      <a href="mailto:kontakt@jonathan-martz.de" class="text-blue-600"
+        >info@jonathan-martz.de</a
       >
     </p>
   </div>
