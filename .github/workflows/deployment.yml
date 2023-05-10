@@ -12,7 +12,7 @@ jobs:
     - name: executing remote ssh commands using key
       uses: appleboy/ssh-action@v0.1.7
       with:
-        host: 195.201.38.163
+        host: www.jonathan-martz.de
         username: root
         key: ${{ secrets.KEY }}
-        script: cd /var/www/www.mkay-development.de && sh build.sh
+        script: cd /mnt/frontend-3/www.jonathan-martz.de && git pull && yarn && yarn build
