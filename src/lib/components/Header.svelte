@@ -31,9 +31,9 @@
       <a href="/" class="flex">
         <span class="text-4xl font-bold">&#123;</span>
         <div class="logo flex flex-col mt-1.5 mx-2">
-          <span class="name text-xs text-center">MkaY Development</span>
+          <span class="name text-xs text-center">Jonathan Martz</span>
           <span class="legal-form text-xs text-center font-normal"
-            >UG haftungsbeschränkt</span
+            >Softwareentwicklung</span
           >
         </div>
         <span class="text-4xl font-bold">&#125;</span>
@@ -51,8 +51,7 @@
   </div>
   <section class="note text-red-600 bg-white my-5 text-center py-2 px-2">
     Diese Firma exestiert noch nicht, befindet sich aber in der Gründung. <br />
-    Startdatum ist der 01.06.2023 unter der Leitung von Jonathan Martz als MkaY Development
-    UG.
+    Startdatum ist der 01.06.2023 als Jonathan Martz Softwareentwicklung.
   </section>
   {#if info}
     <div class="div info-graphic">
@@ -62,7 +61,7 @@
           <p>
 
 
-            Willkommen bei der MkaY Development UG - Ihrem Partner für Webhosting und Webdevelopment!
+            Willkommen bei der Jonathan Martz Softwareentwicklung - Ihrem Partner für Webhosting und Webdevelopment!
             
             Wir bieten zuverlässiges und schnelles Webhosting für Websites jeder Größe und Komplexität. Egal, ob Sie eine kleine Unternehmenswebsite oder eine große E-Commerce-Plattform betreiben möchten, wir haben die perfekte Hosting-Lösung für Sie. Unsere Server sind hochperformant und werden rund um die Uhr überwacht, um eine maximale Verfügbarkeit Ihrer Website zu gewährleisten.
             <br><br>
@@ -77,9 +76,9 @@
           <section class="actions text-center text-white">
             <span class="leading-10"
               >Schick uns ne Mail an <a
-                href="mailto:hallo@mkay-development.de"
+                href="mailto:hallo@jonathan-martz.de"
                 class="text-emerald-400 bg-black rounded-lg px-2 py-2"
-                >hello@mkay-development.de</a
+                >hello@jonathan-martz.de</a
               >
               oder rufe uns an unter
               <a
