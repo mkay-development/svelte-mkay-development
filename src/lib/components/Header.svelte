@@ -39,8 +39,8 @@
         <li><a href="/customers/" class="hover:font-bold">Kunden</a></li>
         <li><a href="/impressum/" class="hover:font-bold">Impressum</a></li>
       </ul>
-      <section class="actions grid grid-cols-6">
-        <a href="mailto:anfrage@jonathan-martz.de" class="block text-center text-white bg-green-700 px-2 py-2 col-span-">Anfrage schicken</a>
+      <section class="actions">
+        <a href="mailto:anfrage@jonathan-martz.de" class="block text-center text-white bg-green-700 px-2 py-2">Anfrage schicken</a>
       </section>
     </nav>
   </div>
