@@ -29,29 +29,24 @@
   <div class="content flex justify-between text-white">
     <h1 class="text-xl font-bold">
       <a href="/" class="flex">
-        <span class="text-4xl font-bold">&#123;</span>
-        <div class="logo flex flex-col mt-1.5 mx-2">
-          <span class="name text-xs text-center">Jonathan Martz</span>
-          <span class="legal-form text-xs text-center font-normal"
-            >Softwareentwicklung</span
-          >
-        </div>
-        <span class="text-4xl font-bold">&#125;</span>
+        <img src="/images/logo.png" class="h-20 bg-white rounded-lg" alt=""/>
       </a>
     </h1>
     <nav class="hidden md:block">
-      <ul class="flex space-x-5 mt-2">
+      <ul class="flex space-x-5 mb-2 mt-1">
         <li><a href="/projects/" class="hover:font-bold">Projekte</a></li>
         <li><a href="/services/" class="hover:font-bold">Services</a></li>
         <li><a href="/customers/" class="hover:font-bold">Kunden</a></li>
-        <li><a href="/kontakt/" class="hover:font-bold">Kontakt</a></li>
         <li><a href="/impressum/" class="hover:font-bold">Impressum</a></li>
       </ul>
+      <section class="actions grid grid-cols-6">
+        <a href="mailto:anfrage@jonathan-martz.de" class="block text-center text-white bg-green-700 px-2 py-2 col-span-">Anfrage schicken</a>
+      </section>
     </nav>
   </div>
   <section class="note text-red-600 bg-white my-5 text-center py-2 px-2">
     Diese Firma exestiert noch nicht, befindet sich aber in der Gründung. <br />
-    Startdatum ist der 01.06.2023 als Jonathan Martz Softwareentwicklung.
+    Startdatum ist der 01.07.2023 als Jonathan Martz Softwareentwicklung.
   </section>
   {#if info}
     <div class="div info-graphic">
